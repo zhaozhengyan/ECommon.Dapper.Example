@@ -1,0 +1,8 @@
+F:\ECommon.Dapper.Demo\ECommon.Dapper.Demo\bin\Debug\ECommon.Dapper.Demo.exe.config
+F:\ECommon.Dapper.Demo\ECommon.Dapper.Demo\bin\Debug\ECommon.Dapper.Demo.exe
+F:\ECommon.Dapper.Demo\ECommon.Dapper.Demo\bin\Debug\ECommon.Dapper.Demo.pdb
+F:\ECommon.Dapper.Demo\ECommon.Dapper.Demo\bin\Debug\Dapper.dll
+F:\ECommon.Dapper.Demo\ECommon.Dapper.Demo\bin\Debug\Dapper.xml
+F:\ECommon.Dapper.Demo\ECommon.Dapper.Demo\obj\Debug\ECommon.Dapper.Demo.exe
+F:\ECommon.Dapper.Demo\ECommon.Dapper.Demo\obj\Debug\ECommon.Dapper.Demo.pdb
+F:\ECommon.Dapper.Demo\ECommon.Dapper.Demo\obj\Debug\ECommon.Dapper.Demo.csprojResolveAssemblyReference.cache
