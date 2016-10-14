@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommon.Dapper.Demo", "ECommon.Dapper.Demo\ECommon.Dapper.Demo.csproj", "{F66930C0-724F-4E95-AAE9-C919713DDD9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{10BC7309-3609-44AA-9703-661184512DF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F66930C0-724F-4E95-AAE9-C919713DDD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F66930C0-724F-4E95-AAE9-C919713DDD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F66930C0-724F-4E95-AAE9-C919713DDD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10BC7309-3609-44AA-9703-661184512DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BC7309-3609-44AA-9703-661184512DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BC7309-3609-44AA-9703-661184512DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BC7309-3609-44AA-9703-661184512DF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,3 +1,5 @@
+using System;
+
 namespace ECommon.Dapper.Demo
 {
     public class User
@@ -17,6 +19,6 @@ namespace ECommon.Dapper.Demo
         /// <summary>
         /// 创建时间
         /// </summary>
-        public System.DateTime CreateTime { get; set; }
+        public DateTime? CreateTime { get; set; }
     }
 }
